@@ -61,5 +61,6 @@
   };
 
   const name = ruben;
+  console.log(name)
 })();
 
